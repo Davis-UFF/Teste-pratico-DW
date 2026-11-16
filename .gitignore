@@ -1,0 +1,13 @@
+# Banco de dados SQLite gerado localmente
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos CSV brutos da Olist (baixar do Kaggle e colocar em data/)
+data/*.csv
+
+# Cache Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
